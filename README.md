@@ -1,16 +1,64 @@
 ## Hi there 👋
+I'm Sarah
 
-<!--
-**saramohamed252006-cmd/saramohamed252006-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me  
+I'm Sarah, a second-year Computer Science & Information Technology student at Akhbar El-Yom Academy.  
+I’m passionate about understanding the core of Computer Science, exploring how technology works, and building myself step by step.
 
-Here are some ideas to get you started:
+- 🎓 Learned *programming fundamentals with C++*
+- 🗄 Learned *SQL* (queries, tables, and basics of databases)
+- 🎨 Studied *Front-End basics* (HTML/CSS)
+- 📚 Completed essential foundations from *CS50*
+- 🚀 Attended multiple events & camps by *AWS, Google, Oracle*, and more  
+- 🤝 Help junior students find clarity in their learning path  
+- 🌱 Founded a community to guide beginners (details coming soon — it’s “cooked” 😂)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 My Goals  
+- Build a *strong foundation in Computer Science*  
+- Deepen my understanding of:
+  - Data Structures & Algorithms  
+  - Operating Systems  
+  - Databases  
+  - Networks  
+  - Math for CS  
+- Become excellent at *Git & GitHub*  
+- Enter the world of *Artificial Intelligence & AI Safety*  
+- Choose a strong second specialization soon  
+- Dreaming of collaborating with *Google* and *Microsoft*
+
+---
+
+## 🛠 Skills  
+*Languages & Tools*  
+- C++  
+- Python (learning)  
+- SQL  
+- HTML & CSS  
+- Git & GitHub (learning)  
+- Problem Solving  
+- Math foundations for Computer Science (learning)
+
+---
+
+## 📌 What I'm Looking For  
+I'm seeking guidance on how to:
+- Build a *solid CS foundation* (not just AI)  
+- Strengthen my understanding of core subjects  
+- Work on *real projects* that showcase my skills  
+- Become confident, flexible, and strong in my technical journey  
+
+I’m passionate, determined, and learning every day — and I’m ready for the hard work.
+
+---
+
+## 💬 Fun Fact  
+I love learning so much — I teach myself, I stay consistent, and when I put something in my mind…  
+*I make it happen.*
+
+---
+
+## 📫 Reach Me  
+- 🔗 LinkedIn:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sarah-mohamed-5a2a0834a)
+- 📸 Instagram: https://www.instagram.com/sarah_mohamed__2?igsh=YnU3eXBzaXRqMXJq

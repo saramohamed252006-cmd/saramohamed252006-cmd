@@ -44,7 +44,7 @@ I’m passionate about understanding the core of Computer Science, exploring how
 
 ## 📌 What I'm Looking For  
 I'm seeking guidance on how to:
-- Build a *solid CS foundation* (not just AI)  
+- Build a *solid CS foundation*  
 - Strengthen my understanding of core subjects  
 - Work on *real projects* that showcase my skills  
 - Become confident, flexible, and strong in my technical journey  

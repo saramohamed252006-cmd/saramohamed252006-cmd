@@ -61,4 +61,4 @@ I love learning so much — I teach myself, I stay consistent, and when I put so
 
 ## 📫 Reach Me  
 - 🔗 LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sarah-mohamed-5a2a0834a)
-- 📸 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarah_mohamed__2)
+- 📸 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sarah_mohamed__2)
